@@ -4,6 +4,7 @@ export default function Home() {
       <h1>Hello world</h1>
       <h2>Sub title</h2>
       <p>Your world is mine</p>
+      <span>Hello</span>
     </div>
   );
 }
